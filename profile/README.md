@@ -22,8 +22,6 @@ The emotional expression in an individual comment remains a private opinion; the
 
 Also, we started working on Fear and Greed index. It's embarrassing we still can't measure the market in TON like in other popular crypto. Sure we can apply various methods (such as TVL), but they are not so rigid and can be easily manipulated. The most just and objective metric can monitored must be factual and real opinions of market's participants.
 
-Iguana can do it thanks to our NLP models.
-
 ## Benefits for Businesses
 Social Media analysis proves to be an effective tool for risk assessment, trend analysis, and interpretation of user feedback. Leveraging state-of-the-art natural language processing algorithms empowers businesses to respond promptly and make informed decisions, enhancing competitiveness and ensuring sustainable development in a dynamic market environment.
 
