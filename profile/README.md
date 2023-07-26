@@ -1,5 +1,4 @@
-# .github
-Iguana
+# Iguana
 
 ### Table of content
 ## Table of Contents
