@@ -8,7 +8,6 @@
 - [💸 Benefits for Businesses](#benefits-for-businesses)
 - [🤖 Neural Networks](#neural-networks)
 - [🚗 Roadmap](#roadmap)
-- [📹 Short video demo](#short-video-demo)
 
 
 Iguana is a next-level AI analytics tool that allows you to track various trends based on user comments in Social Media.
@@ -34,5 +33,3 @@ Our passion for neural networks is undeniable. Hence, we enthusiastically embrac
 - More responsive and user-friendly UI
 - Use more fault-tolerance architecture configurations
 - Add new Social Media sources
-
-## Short video demo
